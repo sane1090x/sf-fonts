@@ -6,4 +6,4 @@ To use the script, clone this repo and run it with `bash install-sf-fonts.sh`. I
 
 If you have feedback or encounter issues, let me know!
 
-###### *By the way, the script and related files in this repo were improved with the help of ChatGPT.*
+###### *By the way, the script and related files in this repo were improved with the help of ChatGPT!*
